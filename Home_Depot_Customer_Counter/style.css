@@ -1,0 +1,53 @@
+html {
+	margin: 0;
+	font-family: 'Bebas Neue', cursive;
+
+}
+body {
+	height: 100%;
+	margin: 0;
+}
+
+.container {
+	height: 100%;
+	margin: 0;
+	padding-top: 5em;
+}
+
+button {
+	text-decoration: none;
+	border: none;
+	width: 40%;
+	margin-left: 30%;
+	margin-right: 30%;
+	height: auto;
+	font-size: 5em;
+	color: white;
+}
+
+.button-add {
+	background-color: #0b0;
+}
+
+.button-sub {
+	background-color: red;
+}
+
+h1 {
+	text-align: center;
+	font-size: 5em;
+}
+
+nav p {
+	display: block;
+	margin: 0;
+	text-align: center;
+	color: white;
+
+}
+nav {
+	background-color: #ee7125;
+	padding-top: .5em;
+	padding-bottom: .5em;
+	font-size: 2em;
+}
